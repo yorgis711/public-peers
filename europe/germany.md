@@ -92,3 +92,5 @@ Yggdrasil configuration file to peer with these nodes.
  
   * Bavaria, Germany, residential / Kabel Deutschland, operated by [adingbatponder](https://codeberg.org/adingbatponder)                                                                        
     * `tls://reticulum.me:12393?key=a3d411280dfc350a4484aa3da5feb0407518c5820cbb011d5620347769b26665`    
+* Hetzner, Nuremberg, operated by [yorgis](https://yorgis.net)
+  * `tls://yorgis.net:6969`
